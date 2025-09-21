@@ -2,4 +2,4 @@
 ![Alt text](https://github.com/Rjdip-00/News-Station/blob/master/Home%20Page%201.jpg?raw=true)
 ![Alt text](https://github.com/Rjdip-00/News-Station/blob/master/Home%20Page%202.jpg?raw=true)
 ![Alt text](https://github.com/Rjdip-00/News-Station/blob/master/Opened%20Msg%201.jpg?raw=true)
-![Alt text]()
+![Alt text](https://github.com/Rjdip-00/News-Station/blob/master/Opened%20Msg%202.jpg?raw=true)
