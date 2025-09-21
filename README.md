@@ -1,4 +1,4 @@
-Always get update of weather from Weather Station!
+Alwayes keep updated throuh News Station!
 
 
 Tech Stack: 🚀
